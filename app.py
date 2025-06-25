@@ -187,7 +187,7 @@ Directory structure:
     # Add footer
     st.markdown("---")
     st.markdown(
-        "📄 **ADT-1 Form Summarizer** - Extracts key information from auditor appointment forms | "
+        "📄 **ADT-1 Form Summarizer** - Extracts key information from auditor appointment forms and generate summary | "
         "Built with Streamlit"
     )
 
