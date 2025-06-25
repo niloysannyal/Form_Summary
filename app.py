@@ -14,7 +14,7 @@ def main():
         layout="wide"
     )
 
-    st.title("📄 ADT-1 Form PDF Summarizer")
+    st.title("📄 ADT-1 PDF Form Summarizer")
     st.markdown("Upload an ADT-1 PDF form to extract and generate a summary")
 
     # File uploader
