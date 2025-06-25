@@ -90,3 +90,31 @@ The appointment covers an audit period from 01-Apr-2024 to 31-Mar-2025, spanning
 This appointment was formalized under Section 139 of the Companies Act, 2013, with the form filed on 20-Jun-2025 
 (Certificate Serial: 00123456789).
 ```
+
+## 🧠 LLM Prompt Example
+```
+Based on the collected data, generate a concise executive summary:
+
+Company: ABC Ltd. (CIN: U12345WB2020PTC012345)
+Auditor: XYZ & Co. (PAN: ABCDE1234F)
+Appointment Type: Casual Vacancy
+Audit Period: 01-Apr-2024 to 31-Mar-2025
+Financial Years: 1
+
+Key Points:
+- The company ABC Ltd. has appointed an auditor
+- This is a casual vacancy
+- The appointed auditor is XYZ & Co.
+- Audit period is from 01-Apr-2024 to 31-Mar-2025
+- Appointment covers 1 financial year
+- Form was filed on 20-Jun-2025
+```
+
+## 📌 Future Improvements
+- Integration with OpenAI / LLMs for auto-summarization
+- OCR support for scanned PDFs
+
+## 🧑‍💻 Author  
+🧑‍🔬 **Niloy Sannyal**  
+📍 Dhaka, Bangladesh  
+📧 niloysannyal@gmail.com  
