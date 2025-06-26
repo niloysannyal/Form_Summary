@@ -46,7 +46,7 @@ This project extracts structured information from **ADT-1 Auditor Appointment PD
 ## ⚙️ How to Run (Locally)
 ### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/auditor-summary-tool.git
+git clone https://github.com/niloysannyal/Form_Summary.git
 cd Form_Summary
 ```
 
