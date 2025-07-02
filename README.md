@@ -3,6 +3,10 @@
 This project extracts structured information from **ADT-1 Auditor Appointment PDFs**, summarizes key insights, and generates **LLM-ready prompts** and human-readable summaries for executive and compliance purposes.
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/46ddebc7-4663-486e-827c-f0f9520ef2d8" width="500"/>
+</p>
+
+<p align="center">
   <a href="https://formsummarygenerator.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/Launch-App-%23FF4B4B.svg?logo=streamlit&logoColor=white&style=for-the-badge">
   </a>
